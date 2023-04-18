@@ -7,6 +7,8 @@
 
 Matlab functions to extract and visualize data related to deposition of metal on dry moss in Norway. The EBAS database [1] hosted by thredds server by NILU is accessed. For additional information on the data, see [2].
 
+![lead moss](./Lead_moss.pdf)
+
 ## Dependencies
 
     MATLAB R2019b or later
@@ -35,4 +37,4 @@ The environmental data was obtained from the EBAS database hosted on the Thredds
 
 [2] Steinnes, E., Uggerud, H. T., Pfaffhuber, K. A., & Berg, T. (2017). Atmospheric deposition of heavy metals in Norway. National moss survey 2015. NILU rapport.
 
-![lead moss](./Lead_moss.pdf)
+
