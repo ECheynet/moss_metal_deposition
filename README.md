@@ -5,7 +5,7 @@
 
 ## Summary 
 
-Matlab functions to extract and visualize data related to deposition of metal on dry moss in Norway. The EBAS database [1] hosted by thredds server by NILU is accessed. For additional information on the data, see [2].
+Matlab scripts to extract and visualize data related to deposition of metal on dry moss in Norway. The EBAS database [1] hosted by thredds server by NILU is accessed. For additional information on the data, see [2].
 
 <img src="./moss.png" width="50%" height="50%" />
 
