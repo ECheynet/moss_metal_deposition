@@ -35,4 +35,4 @@ The environmental data was obtained from the EBAS database hosted on the Thredds
 
 [2] Steinnes, E., Uggerud, H. T., Pfaffhuber, K. A., & Berg, T. (2017). Atmospheric deposition of heavy metals in Norway. National moss survey 2015. NILU rapport.
 
-
+![lead moss](./Lead_moss.pdf)
